@@ -23,7 +23,7 @@ def get_letter_grade(final_score):
 
 def main():
     print("=" * 40)
-    print("       STUDENT GRADE CALCULATOR")
+    print("STUDENT GRADE CALCULATOR")
     print("=" * 40)
 
     student_name = input("Nama siswa: ").strip()
